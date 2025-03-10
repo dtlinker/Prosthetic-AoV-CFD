@@ -11,4 +11,4 @@ This repository has results of a study using simplified computational fluid dymn
 Here is a Graphical Abstract of the main result:
 
 
- ![Graphical Abstract](/images/GraphicalAbstract.jpg)
+ ![Graphical Abstract](/images/Graphicalabstract.jpg)
