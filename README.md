@@ -10,13 +10,15 @@ This repository has results of a study using simplified computational fluid dyna
 
 Here is a Graphical Abstract of the main result:
 
+The files were updated in late August 2026 with a an update in the template for the surgical valve (SBV) based on requests of a reviewer, adding "leaflets". All of the simulations were repeated, and all of the calculations and numbers updated. The new simulations and results are in a folder called "SBVnew" which has the old surgical valve templates labeled sten and the new templates labeled SBV. The templates below and the graphical abstract are updaed.
 
- ![Graphical Abstract](/images/Graphicalabstract.jpg)
+
+ ![Graphical Abstract](/images/Graphicalabstract2.jpg)
 
  ## Geometries for simulation
  There were three geometries that were tested, to simulate a surgical bioprosthetic valve (SBV), a balloon expandable valve (BEV) and a self-expanding valve (SEV). The image below shows the baseline shape of each of these geometries.
 
- ![Baseline geometries](/images/Geometries.jpg)
+ ![Baseline geometries](/images/Geometries2.jpg)
 
  Variations of these baseline geometries were created taking each baseline and decreasing the AoV by 1 mm four times from 9 mm down to 5 mm, resulting in a total of 15 geometries. Additional variations then were created from these 15 variations of each geometry by reducing all of the dimensions simultaneously by 0.5 mm four times, resulting in a total of 75 geometries. Note that when all of the dimensions were reduced by 0.5 mm, this included the AoV. An overview of all the dimensions tested is shown in the table below.
 
