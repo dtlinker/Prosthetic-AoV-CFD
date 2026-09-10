@@ -10,7 +10,7 @@ This repository has results of a study using simplified computational fluid dyna
 
 Here is a Graphical Abstract of the main result:
 
-The files were updated in late August 2026 with a an update in the template for the surgical valve (SBV) based on requests of a reviewer, adding "leaflets". All of the simulations were repeated, and all of the calculations and numbers updated. The new simulations and results are in a folder called "SBVnew" which has the old surgical valve templates labeled sten and the new templates labeled SBV. The templates below and the graphical abstract are updaed.
+The files were updated in late August 2026 with a an update in the template for the surgical valve (SBV) based on requests of a reviewer, adding "leaflets". All of the simulations were repeated, and all of the calculations and numbers updated. The new simulations and results are in a folder called "SBVnew" which has the old surgical valve templates labeled sten and the new templates labeled SBV. The templates below and the graphical abstract are updated.
 
 
  ![Graphical Abstract](/images/Graphicalabstract2.jpg)
