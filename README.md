@@ -74,4 +74,4 @@ The columns are
 * **EstMaxP** - Estimated maximum pressure based on the simplified Bernoulli equation
 
 ## Publication
-This analysis is being submitted for publication. When it has been accepted, the reference will be placed here.
+This analysis has been published in journal Cardiovascular Engineering and Technology, 2026 in an article entitled "Computational Fluid Dynamics Simulations Provide Insights into the Paradox of Newer Prosthetic Aortic Valves" [DOI] (https://link.springer.com/article/10.1007/s13239-026-00867-5) "Link to the article"
